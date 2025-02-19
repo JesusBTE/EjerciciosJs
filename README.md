@@ -1,5 +1,4 @@
 # EjerciciosJs
-
 Este repositorio contiene una serie de ejercicios en JavaScript diseñados para mejorar la lógica de programación y fortalecer la comprensión del lenguaje.
 
 Ejercicio 1. Variables y tipos de datos.
@@ -39,46 +38,46 @@ Ejercicio 9. Manipulación de objetos.
 
 Este ejercicio muestra cómo agregar una nueva propiedad a un objeto en JavaScript utilizando el método Object.defineProperty(), el cual permite definir propiedades con configuraciones específicas.
 
-10. Filtrar elementos de un array.
+Ejercicio 10. Filtrar elementos de un array.
 
 Este ejercicio muestra cómo utilizar el método .filter() para obtener solo los elementos de un arreglo que cumplan con la condición específica.
 
-12. Mapear un array.
+Ejercicio 11. Mapear un array.
 
 Este ejercicio muestra cómo utilizar el método .map() en JavaScript para transformar cada elemento de un arreglo aplicando una operación matemática.
 
-12. Reducir un array.
+Ejercicio 12. Reducir un array.
 
 Este ejercicio muestra cómo utilizar el método .reduce() en JavaScript para calcular la suma total de los elementos de un arreglo.
 
-13. Funciones asíncronas (setTimeout).
+Ejercicio 13. Funciones asíncronas (setTimeout).
 
 Este ejercicio muestra cómo utilizar la función setTimeout() en JavaScript para ejecutar código después de un tiempo determinado.
 
-14. Manejo de promesas.
+Ejercicio 14. Manejo de promesas.
 
 Este ejercicio muestra cómo utilizar promesas para manejar operaciones asíncronas, permitiendo ejecutar código después de que una tarea haya finalizado.
 
-15. Uso de async/await.
+Ejercicio 15. Uso de async/await.
 
 Este ejercicio muestra cómo manejar promesas utilizando async y await, lo que permite escribir código asíncrono de manera más clara y estructurada.
 
-16. Expresiones regulares.
+Ejercicio 16. Expresiones regulares.
 
 Este ejercicio muestra cómo validar direcciones de correo electrónico utilizando expresiones regulares y la función test() de los objetos RegExp.
 
-17. Transformación de texto.
+Ejercicio 17. Transformación de texto.
 
 Este ejercicio muestra cómo manipular cadenas de texto utilizando los métodos replace() y toUpperCase().
 
-18. Ordenamiento de un array.
+Ejercicio 18. Ordenamiento de un array.
 
 Este ejercicio demuestra cómo utilizar el método .sort() en JavaScript para ordenar un array de palabras de manera alfabética.
 
-19. Simulación de un endpoint con fetch (JSONPlaceholder).
+Ejercicio 19. Simulación de un endpoint con fetch (JSONPlaceholder).
 
 Este ejercicio muestra cómo realizar una petición HTTP GET utilizando la función fetch(), procesar la respuesta en formato JSON y mostrando los datos en consola.
 
-20. Creación de un pequeño CRUD en memoria.
+Ejercicio 20. Creación de un pequeño CRUD en memoria.
 
 Este ejercicio implementa una gestión básica de tareas en JavaScript, permitiendo: Agregar una tarea al array tareas, eliminar una tarea mediante su índice, marcar una tarea como completada.
