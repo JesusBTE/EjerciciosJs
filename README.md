@@ -40,9 +40,10 @@ Ejercicio 9. Manipulación de objetos.
 Este ejercicio muestra cómo agregar una nueva propiedad a un objeto en JavaScript utilizando el método Object.defineProperty(), el cual permite definir propiedades con configuraciones específicas.
 
 10. Filtrar elementos de un array.
+
 Este ejercicio muestra cómo utilizar el método .filter() para obtener solo los elementos de un arreglo que cumplan con la condición específica.
 
-11. Mapear un array.
+12. Mapear un array.
 
 Este ejercicio muestra cómo utilizar el método .map() en JavaScript para transformar cada elemento de un arreglo aplicando una operación matemática.
 
